@@ -1,6 +1,6 @@
 #!/bin/bash
 
-usage="$(basename "$0") [-h] [-s n] -- program to calculate the answer to life, the universe and everything
+usage="$(basename "$0") [-h] -- The following program performs the sysbench test cases for the CPU, MEMORY and FileIO. It currently supports 2 tests cases for each with 5 test runs for individual test case.
 
 where:
     -h  show this help text"
