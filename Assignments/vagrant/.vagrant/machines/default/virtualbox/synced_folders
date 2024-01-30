@@ -1,1 +1,0 @@
-{"virtualbox":{"/sysbench":{"guestpath":"/sysbench","hostpath":"/home/sourabhdeshmukh/Documents/CC/Cloud-CSEN-241/Assignments/vagrant/scripts","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/sourabhdeshmukh/Documents/CC/Cloud-CSEN-241/Assignments/vagrant","disabled":false,"__vagrantfile":true}}}
