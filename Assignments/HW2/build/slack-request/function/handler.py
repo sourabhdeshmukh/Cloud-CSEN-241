@@ -11,7 +11,7 @@ def handle(req):
                 "short": True
             }],
             "author_name": "Sourabh Deshmukh",
-            "author_icon": "https://github.com/sourabhdeshmukh",
+            "author_icon": "https://avatars.githubusercontent.com/u/25242638?v=4",
             "image_url": "https://hub.docker.com/r/sourabhdeshmukh/slack-request"
         },
         {

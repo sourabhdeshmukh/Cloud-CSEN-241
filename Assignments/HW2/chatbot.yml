@@ -9,4 +9,3 @@ functions:
     image: sourabhdeshmukh/chatbot
     environment:
       content_type: text/plain
-

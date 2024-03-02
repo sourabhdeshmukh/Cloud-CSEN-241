@@ -13,7 +13,7 @@ def handle(req):
                 "pretext": "Ahh yeah! Great choice, COEN 241 is absolutely amazing!",
                 "author_name": "Sourabh Deshmukh",
                 "author_link": "https://github.com/sourabhdeshmukh/Cloud-CSEN-241",
-                "author_icon": "https://github.com/sourabhdeshmukh",
+                "author_icon": "https://avatars.githubusercontent.com/u/25242638?v=4",
                 "title": "COEN 241",
                 "title_link": "https://www.scu.edu/engineering/academic-programs/department-of-computer-engineering/graduate/course-descriptions/",
                 "text": "Head over to COEN 241",
