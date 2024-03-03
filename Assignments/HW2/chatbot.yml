@@ -6,6 +6,14 @@ functions:
   chatbot:
     lang: python3
     handler: ./chatbot
+      #image: sourabhdeshmukh/chatbot
     image: sourabhdeshmukh/chatbot
     environment:
       content_type: text/plain
+        #    Limits:
+        #      cpu:     1
+        #      memory:  100Mi
+        #    Requests:
+        #      cpu:      1
+        #      memory:   50Mi
+        #

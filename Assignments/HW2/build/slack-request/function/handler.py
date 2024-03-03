@@ -12,7 +12,8 @@ def handle(req):
             }],
             "author_name": "Sourabh Deshmukh",
             "author_icon": "https://avatars.githubusercontent.com/u/25242638?v=4",
-            "image_url": "https://hub.docker.com/r/sourabhdeshmukh/slack-request"
+            "image_url": "https://avatars.githubusercontent.com/u/25242638?v=4"
+            #"image_url": "https://hub.docker.com/r/sourabhdeshmukh/slack-request"
         },
         {
             "title": "About COEN 241",
